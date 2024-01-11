@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-search-filter-card/static/css/main.16565882.css",
+    "main.js": "/react-search-filter-card/static/js/main.eead60a3.js",
+    "static/js/787.8e40bede.chunk.js": "/react-search-filter-card/static/js/787.8e40bede.chunk.js",
+    "static/media/fifth.jpg": "/react-search-filter-card/static/media/fifth.0a686fd19caec902c8cf.jpg",
+    "static/media/eight.jpg": "/react-search-filter-card/static/media/eight.a3fa2a1b71d7fd521f77.jpg",
+    "static/media/seven.jpg": "/react-search-filter-card/static/media/seven.0509dfd3aeab11520e66.jpg",
+    "static/media/nine.jpg": "/react-search-filter-card/static/media/nine.4844d39737535ef87b39.jpg",
+    "static/media/third.jpg": "/react-search-filter-card/static/media/third.da5c8c31034e172ece58.jpg",
+    "static/media/four.jpg": "/react-search-filter-card/static/media/four.32e9beb227661bafc9e8.jpg",
+    "static/media/sixth.jpg": "/react-search-filter-card/static/media/sixth.e5410591071e3b0eac0a.jpg",
+    "static/media/sec.jpg": "/react-search-filter-card/static/media/sec.1b8e705f26986a66bd64.jpg",
+    "static/media/first.jpg": "/react-search-filter-card/static/media/first.b8fb0758cfbd9c806b75.jpg",
+    "index.html": "/react-search-filter-card/index.html",
+    "main.16565882.css.map": "/react-search-filter-card/static/css/main.16565882.css.map",
+    "main.eead60a3.js.map": "/react-search-filter-card/static/js/main.eead60a3.js.map",
+    "787.8e40bede.chunk.js.map": "/react-search-filter-card/static/js/787.8e40bede.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16565882.css",
+    "static/js/main.eead60a3.js"
+  ]
+}
